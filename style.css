@@ -29,6 +29,7 @@ section {
 	background-color: forestgreen;
 	margin: 5px;
 	padding: 50px;
+	word-wrap: break-word;
 }
 
 

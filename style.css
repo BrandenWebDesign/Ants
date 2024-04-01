@@ -6,12 +6,11 @@
 }
 
 body {
-	background-color: forestgreen;
+	background-color: black;
 	font-family: "Dela Gothic One", sans-serif;
-	font-weight: 400;
-	font-style: normal;
+
 }
-}
+
 
 .Ant-Tunnels {
 	width: 100%;
@@ -19,11 +18,25 @@ body {
 }
 
 section {
-	font-size: 24px;
-	padding: 32px;
-	background-color: #333;
-	color: white;
+	font-size: 16px;
+	padding: 20px;
+	background-color: #222;
+	color: whitesmoke;
 
+}
+
+.Fun-Facts {
+	background-color: forestgreen;
+	margin: 5px;
+	padding: 50px;
+}
+
+
+.Ant-Title {
+	text-align: center;
+	padding: 20px;
+	margin-top: -30px;
+	font-size: 24px;
 }
 
 .Title {
